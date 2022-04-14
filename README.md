@@ -3,7 +3,7 @@
   </p>
 <p align="center">
 
-  <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Artillery-Fire-Guidance?logoColor=blue&style=social">
+  <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Artillery-Fire-Guidance/Shell-Tracking?logoColor=blue&style=social">
   <img alt="GitHub forks" src="https://img.shields.io/github/forks/Artillery-Fire-Guidance/Shell-Tracking?logoColor=blue&style=social">
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/Artillery-Fire-Guidance/Shell-Tracking?logo=github&logoColor=blue&style=social">
   <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Artillery-Fire-Guidance/Shell-Tracking?logo=github&logoColor=blue&style=social">
